@@ -8,4 +8,5 @@ return {
   require 'custom/plugins/flog',
   require 'custom/plugins/autopairs',
   require 'custom/plugins/fugitive',
+  require 'custom/plugins/telescope_file_browser',
 }
