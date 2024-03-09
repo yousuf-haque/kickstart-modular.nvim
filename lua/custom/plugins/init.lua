@@ -4,4 +4,5 @@
 -- See the kickstart.nvim README for more information
 return {
   require 'custom/plugins/monokai-pro',
+  require 'custom/plugins/lualine',
 }
