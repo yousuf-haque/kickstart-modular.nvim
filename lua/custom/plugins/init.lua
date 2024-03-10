@@ -7,4 +7,5 @@ return {
   require 'custom/plugins/lualine',
   require 'custom/plugins/flog',
   require 'custom/plugins/autopairs',
+  require 'custom/plugins/fugitive',
 }
