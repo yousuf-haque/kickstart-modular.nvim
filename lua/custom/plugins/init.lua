@@ -6,4 +6,5 @@ return {
   require 'custom/plugins/monokai-pro',
   require 'custom/plugins/lualine',
   require 'custom/plugins/flog',
+  require 'custom/plugins/fugitive',
 }
