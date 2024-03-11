@@ -9,4 +9,5 @@ return {
   require 'custom/plugins/autopairs',
   require 'custom/plugins/fugitive',
   require 'custom/plugins/telescope_file_browser',
+  require 'custom/plugins/rustacean',
 }
