@@ -10,5 +10,6 @@ return {
   require 'custom/plugins/fugitive',
   require 'custom/plugins/telescope_file_browser',
   require 'custom/plugins/rustacean',
+  require 'custom/plugins/undo-tree',
   require 'custom/plugins/lsp-saga',
 }
