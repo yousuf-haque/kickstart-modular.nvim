@@ -12,4 +12,5 @@ return {
   require 'custom/plugins/undo-tree',
   require 'custom/plugins/lsp-saga',
   require 'custom/plugins/legendary',
+  require 'custom/plugins/neogit',
 }
