@@ -14,4 +14,5 @@ return {
   require 'custom/plugins/lsp-saga',
   require 'custom/plugins/legendary',
   require 'custom/plugins/neogit',
+  require 'custom/plugins/typescript-tools',
 }

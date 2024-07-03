@@ -1,6 +1,7 @@
 return {
   {
     'NeogitOrg/neogit',
+    branch = 'trial-new-log-parsing',
     dependencies = {
       'nvim-lua/plenary.nvim', -- required
       'sindrets/diffview.nvim', -- optional - Diff integration
