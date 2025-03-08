@@ -9,5 +9,14 @@ return {
       'nvim-telescope/telescope.nvim', -- optional
     },
     config = true,
+    keys = {
+      {
+        '<leader>g',
+        function()
+          require('neogit').open()
+        end,
+        desc = 'open neo[g]it',
+      },
+    },
   },
 }
