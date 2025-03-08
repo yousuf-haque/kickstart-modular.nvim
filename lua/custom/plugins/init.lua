@@ -15,4 +15,5 @@ return {
   require 'custom/plugins/neogit',
   require 'custom/plugins/typescript-tools',
   require 'custom/plugins/wildfire',
+  require 'custom/plugins/nvim-surround',
 }
