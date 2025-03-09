@@ -16,4 +16,5 @@ return {
   require 'custom/plugins/typescript-tools',
   require 'custom/plugins/wildfire',
   require 'custom/plugins/nvim-surround',
+  require 'custom/plugins/comment',
 }
