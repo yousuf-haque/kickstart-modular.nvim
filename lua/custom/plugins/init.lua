@@ -18,4 +18,5 @@ return {
   require 'custom/plugins/nvim-surround',
   require 'custom/plugins/comment',
   require 'custom/plugins/namu',
+  require 'custom/plugins/oil',
 }

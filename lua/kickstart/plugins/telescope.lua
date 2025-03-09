@@ -70,7 +70,7 @@ return {
             require('telescope.themes').get_dropdown(),
           },
           file_browser = {
-            hijack_netrw = true,
+            --      hijack_netrw = true,
             hidden = true,
             grouped = true,
             respect_gitignore = false,
