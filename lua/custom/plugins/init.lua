@@ -19,4 +19,5 @@ return {
   require 'custom/plugins/comment',
   require 'custom/plugins/namu',
   require 'custom/plugins/oil',
+  require 'custom/plugins/yazi',
 }
